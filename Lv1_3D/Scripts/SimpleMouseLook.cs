@@ -1,5 +1,4 @@
-﻿// This code is part of the Fungus library (https://github.com/snozbot/fungus)
-// It is released for free under the MIT open source license (https://github.com/snozbot/fungus/blob/master/LICENSE)
+
 
 using System.Collections;
 using System.Collections.Generic;
@@ -9,7 +8,7 @@ using UnityEngine;
 namespace Fungus.Examples
 {
     /// <summary>
-    /// A very simple mouse look behaviour for a Fungus demo. Not intended for use in full projects.
+    /// A very simple mouse look behaviour for a Fungus.
     /// 
     /// Primarily exists to avoid reliance on Unity Standard Assets.
     /// </summary>
